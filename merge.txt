@@ -1,4 +1,3 @@
-L1 - master
-L2 not master, branch
-L3 - branch
-s1 - new line
+L1
+L2
+L3
